@@ -1,5 +1,15 @@
 # 更新记录
 
+## v1.1.0 · 2026-11-17
+
+新增 Globe、Download、Bell 和 Circle Help，图标库共 14 个。沿用 16px 和现有 React / SVG / CSS 接入方式。
+
+- Globe 使用用户提供的 SVG。
+- Download 和 Circle Help 的动效源自 Lucide Animated。
+- Bell 的动效源自 Moving Icons。
+- [本版预览](motion-icon-v1.1.0.html)
+- [本版开发包](sidebar-icons-16px-v1.1.0.zip)
+
 ## v1.0.0 · 2026-11-17
 
 首次正式编号。新增 Search，沿用用户提供的 SVG 轮廓，添加 560ms 扫视动画。悬停或键盘聚焦触发，支持减少动态效果设置。保留原有 9 个图标和接入方式。
