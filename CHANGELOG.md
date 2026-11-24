@@ -1,5 +1,11 @@
 # 更新记录
 
+## v1.3.0 · 2026-11-24
+
+新增 folder-spring 和 folder-hinge，点击切换打开与收起。动效来自提供的《文件夹开合.html》。共 17 个图标。
+
+[预览](motion-icon-v1.3.0.html) · [开发包](sidebar-icons-16px-v1.3.0.zip)
+
 ## v1.2.0 · 2026-11-24
 
 新增独立的 folder-tree-v2，使用提供的 SVG 和自定义分支展开动效。原版 folder-tree 继续提供，共 15 个图标。React 使用 FolderTreeV2Icon。
