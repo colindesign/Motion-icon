@@ -1,5 +1,11 @@
 # 更新记录
 
+## v1.2.0 · 2026-11-24
+
+新增独立的 folder-tree-v2，使用提供的 SVG 和自定义分支展开动效。原版 folder-tree 继续提供，共 15 个图标。React 使用 FolderTreeV2Icon。
+
+[预览](motion-icon-v1.2.0.html) · [开发包](sidebar-icons-16px-v1.2.0.zip)
+
 ## v1.1.0 · 2026-11-17
 
 新增 Globe、Download、Bell 和 Circle Help，图标库共 14 个。沿用 16px 和现有 React / SVG / CSS 接入方式。
