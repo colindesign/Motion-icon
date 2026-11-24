@@ -1,5 +1,11 @@
 # 更新记录
 
+## v1.3.2 · 2026-11-24
+
+folder-tree-v2 展开总时长从 530ms 调整为 760ms，上下文件夹起动间隔调整为 205ms。
+
+[本版预览](motion-icon-v1.3.2.html#folder-tree-v2) · [开发包](sidebar-icons-16px-v1.3.2.zip)
+
 ## v1.3.1 · 2026-11-24
 
 修复 folder-hinge 开合过程中前后盖描边粗细不一致的问题。沿用 17 个图标及原有组件接口。
